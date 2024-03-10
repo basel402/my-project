@@ -1,2 +1,2 @@
 # my-project
-this is my first project
+### python game (100 game)
